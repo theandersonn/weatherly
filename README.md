@@ -48,8 +48,8 @@ src/
 
 Quando criar arquivos separados?
 
-Utilitário único e pequeno → arquivo próprio (ex: validateSearchInput.ts).
-Funções relacionadas entre si → agrupamento em arquivo único (ex: forecastUtils.ts).
+- Utilitário único e pequeno → arquivo próprio (ex: validateSearchInput.ts).
+- Funções relacionadas entre si → agrupamento em arquivo único (ex: forecastUtils.ts).
 
 ## ⚙️ Tecnologias Utilizadas
 
