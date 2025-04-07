@@ -47,6 +47,7 @@ src/
 🧠 Decisões Estratégicas
 
 Quando criar arquivos separados?
+
 Utilitário único e pequeno → arquivo próprio (ex: validateSearchInput.ts).
 Funções relacionadas entre si → agrupamento em arquivo único (ex: forecastUtils.ts).
 
