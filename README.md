@@ -93,7 +93,7 @@ cd weatherly
 yarn install
 ```
 
-3. Crie um arquivo .env coms respectivas chaves:
+3. Crie um arquivo .env com as respectivas chaves:
 
 ```sh
 NEXT_PUBLIC_WEATHER_BASE_URL=
@@ -153,5 +153,4 @@ Exibir o nome correto da cidade
 
 Buscar e exibir a previsão do tempo em tempo real
 
-👨‍💻 Autor
-Desenvolvido theandersonn 💻
+💻 Desenvolvido por **theandersonn** ☕❤️
