@@ -4,7 +4,7 @@ Weatherly é uma aplicação web desenvolvida com **Next.js** que exibe a previs
 
 ## 🚀 Demonstração
 
-> Em breve: link deploy
+> https://weatherly-seven-ochre.vercel.app/
 
 ## 🧩 Funcionalidades
 
