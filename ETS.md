@@ -55,22 +55,7 @@ graph TD
 | Funções principais | `fetchWeather`, `validateSearchInput` |
 | Lógica de agrupamento | `groupForecastByDay`, `transformGroupedForecast` |
 | Formatação de data/hora | `getShortWeekdayName`, `formatToLocalTime` |
-| Hooks usados | `useUserLocation`, `useQuery` do React Query |
+| Hooks utilizados | `useUserLocation`, `useQuery` do React Query |
 | Componentes envolvidos | `WeatherDashboard`, `WeatherForecastCard`, `SearchInput`, etc. |
 
 ---
-
-### 7. 🧪 Pontos de Teste Sugeridos
-
-- ✅ Input em branco → deve exibir `toast` de aviso.
-- ✅ Cidade válida → exibe dados corretamente.
-- ✅ Cidade inválida → exibe `toast` de erro.
-- ✅ Enquanto carrega → deve mostrar indicador visual.
-- ✅ Após erro, dados anteriores devem permanecer visíveis.
-- ✅ Forecast diário mostra temperatura mínima, máxima e ícone.
-- ✅ Previsão aparece para até 5 dias (excluindo o atual).
-
----
-
-### 8. 📎 Anexos
-- ✔️ [Diagrama do Fluxo de Dados (PNG)](./assets/architecture-flowchart.png)
